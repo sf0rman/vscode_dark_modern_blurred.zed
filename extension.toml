@@ -1,7 +1,7 @@
-id = "vscode-dark-modern"
-name = "VSCode Dark Modern"
-version = "0.1.2"
+id = "vscode-dark-modern-blurred"
+name = "VSCode Dark Modern Blurred"
+version = "0.1.3"
 schema_version = 1
-authors = ["kcamcam <kevincamellini@gmail.com>", "sforman <sebastian@forman.no>"]
+authors = ["sforman <sebastian@forman.no>"]
 description = "VSCode Dark Modern Theme Blurred for Zed"
 repository = "https://github.com/sf0rman/vscode_dark_modern_blurred.zed"
