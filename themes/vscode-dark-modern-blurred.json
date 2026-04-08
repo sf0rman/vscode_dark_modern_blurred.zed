@@ -22,7 +22,7 @@
         "border": "#404040",
         "border.variant": "#5A5A5A",
         "border.focused": "#0078D4",
-        "border.selected": "#2B2B2B",
+        "border.selected": "#00000000",
         "border.transparent": "#2B2B2B",
         "border.disabled": "#2B2B2B",
         "elevated_surface.background": "#202020D9",
