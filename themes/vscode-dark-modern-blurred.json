@@ -77,7 +77,7 @@
         "minimap.thumb.border": null,
         "editor.foreground": "#CCCCCC",
         "editor.background": "#00000000",
-        "editor.gutter.background": "#00000000",
+        "editor.gutter.background": "#0000000A",
         "editor.subheader.background": "#00000000",
         "editor.active_line.background": "#00000000",
         "editor.highlighted_line.background": null,
