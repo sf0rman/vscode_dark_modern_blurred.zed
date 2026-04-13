@@ -1,6 +1,6 @@
 id = "vscode-dark-modern-blurred"
 name = "VSCode Dark Modern Blurred"
-version = "0.1.4"
+version = "0.1.5"
 schema_version = 1
 authors = ["sforman <sebastian@forman.no>"]
 description = "VSCode Dark Modern Theme Blurred for Zed"
